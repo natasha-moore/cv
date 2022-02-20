@@ -29,6 +29,10 @@ _FIS provides technology solutions for merchants, banks, and capital markets fir
   -	Collaborated with multiple cross-functional teams to create and update product documentation (user guides, installation guides, release notes, online help files) for the [Front Arena Knowledgebase](https://kbase.frontarena.com/).
   -	Tracked and monitored 250+ Jira development tickets per software release to ensure that all relevant software changes are appropriately documented.
   -	Updated, reviewed, and published 25+ documents per release in line with the company style guides.
+
+📜 **_Writing samples:_**
+  - [Internal user guide](https://docs.google.com/document/d/1t-9mPaGAE6kSuRJDdsvagecBJtUnHwoPB2sE9nD40ng/edit?usp=sharing) <br>
+  (External-facing Front Arena documentation is covered by an NDA.)
   
 💻 **_Tools and technologies used:_** AccuRev, Adobe Acrobat, Confluence, Jira, MadCap Flare, MS Office, MS Teams, Snagit, TortoiseSVN <br>
 
