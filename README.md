@@ -1,4 +1,4 @@
-# Nataša Moore <br> Technical Writer
+# Nataša Moore
 
 _Detail-oriented bilingual Technical Writer with a Master’s degree in English and 3 years’ experience in documenting complex fintech software. Skilled at developing product documentation for multiple projects using docs-as-code, MadCap Flare, Confluence, and Word, while adhering to company style guides and strict project deadlines. Experienced in working with cross-functional teams in a fast-paced Agile environment._
 
