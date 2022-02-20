@@ -19,7 +19,7 @@ _Checkout.com is a global payments solution provider on a mission to enable busi
   - [Overview of Checkout.com Integrated NetSuite Payments](https://www.checkout.com/docs/integrate/erp/netsuite)
   - [Checkout.com Integrated NetSuite Payments user guides](https://www.checkout.com/docs/integrate/erp/netsuite/go-further-with-netsuite)
 
-💻 **_Tools and technologies used:_** Docs-as-code, Confluence, Git, GitHub, Jira, Looker, Markdown, MS Office, Slack, Zoom <br>
+💻 **_Tools and technologies used:_** Docs-as-code, Confluence, Git, GitHub, Jira, Looker, Markdown, MS Office, Slack, VS Code, Zoom <br>
 
 <br>
 
