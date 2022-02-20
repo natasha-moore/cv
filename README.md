@@ -1,6 +1,6 @@
 _Detail-oriented bilingual Technical Writer with a Master’s degree in English and 3 years’ experience in documenting complex fintech software. Skilled at developing product documentation for multiple projects using docs-as-code, MadCap Flare, Confluence, and Word, while adhering to company style guides and strict project deadlines. Experienced in working with cross-functional teams in a fast-paced Agile environment._
 
-natasha.k.moore@outlook.com &emsp;/&emsp; +44 7305 207685 &emsp;/&emsp; Reading, UK
+📧 natasha.k.moore@outlook.com &emsp;&emsp; 📞 +44 7305 207685 &emsp;&emsp; 🌍 Reading, UK
 
 <br>
 
