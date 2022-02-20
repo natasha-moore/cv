@@ -2,7 +2,7 @@
 
 _Detail-oriented bilingual Technical Writer with a Master’s degree in English and 3 years’ experience in documenting complex fintech software. Skilled at developing product documentation for multiple projects using docs-as-code, MadCap Flare, Confluence, and Word, while adhering to company style guides and strict project deadlines. Experienced in working with cross-functional teams in a fast-paced Agile environment._
 
-natasha.k.moore@outlook.com &emsp;|&emsp; +44 7305 207685 &emsp;|&emsp; Reading, UK
+natasha.k.moore@outlook.com &emsp;/&emsp; +44 7305 207685 &emsp;/&emsp; Reading, UK
 
 <br>
 
@@ -69,7 +69,7 @@ Equivalent to UK Framework Level: RQF Level 7, as certified by [UK National Reco
 <br>
 
 ## 📓 Professional Development and Certification
-  - [Global TESOL College](https://globaltesol.com/): Advanced Certificate in Teaching English to Speakers of Other Languages (2015)
-  - [Association of Scientific and Technical Translators of Serbia](https://prevodi.rs/en/): One-year course for scientific, technical, and court translators (2011–2012)
+  - [Global TESOL College](https://globaltesol.com/): Advanced Certificate in Teaching English to Speakers of Other Languages (_March 2015_)
+  - [Association of Scientific and Technical Translators of Serbia](https://prevodi.rs/en/): One-year course for scientific, technical, and court translators (_2011–2012_)
 
 
