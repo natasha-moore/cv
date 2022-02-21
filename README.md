@@ -11,7 +11,7 @@ July 2021—Present <br>
 _Checkout.com is a global payments solution provider on a mission to enable businesses and their communities to thrive in the digital economy._
   -	Collaborate with Product, Partner Engineering, and external development teams to create and update product documentation for internal stakeholders.
   -	Work closely with the Docs team to create, review, and publish merchant-facing documentation ([checkout.com/docs](https://checkout.com/docs) and [api-reference.checkout.com](https://api-reference.checkout.com)).
-  -	Create and set up Jira projects for Partner Engineering to improve team efficiency and increase the visibility of merchant requests and their progress.
+  -	Set up and manage workflows and processes for Partner Engineering to improve team efficiency and increase the visibility of merchant requests and their progress.
   
 📜 **_Writing samples:_**
   - [Overview of Checkout.com Integrated NetSuite Payments](https://www.checkout.com/docs/integrate/erp/netsuite)
