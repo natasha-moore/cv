@@ -9,24 +9,24 @@ _Detail-oriented bilingual Technical Writer with a Master’s degree in English 
 ### **Technical Writer, Partner Engineering** at [Checkout.com](https://checkout.com)
 July 2021—Present <br>
 _Checkout.com is a global payments solution provider on a mission to enable businesses and their communities to thrive in the digital economy._
-  -	Collaborate with Product, Partner Engineering, and external development teams to create and update product documentation for internal stakeholders.
-  -	Work closely with the Docs team to create, review, and publish merchant-facing documentation ([checkout.com/docs](https://checkout.com/docs) and [api-reference.checkout.com](https://api-reference.checkout.com)).
-  -	Set up and manage workflows and processes for Partner Engineering to improve team efficiency and increase the visibility of merchant requests and their progress.
+  -	Collaborate with Product, Partner Engineering, and external development teams to create and update product documentation for internal stakeholders
+  -	Work closely with the Docs team to create, review, and publish merchant-facing documentation ([checkout.com/docs](https://checkout.com/docs) and [api-reference.checkout.com](https://api-reference.checkout.com))
+  -	Set up and manage workflows and processes for Partner Engineering to improve team efficiency and increase the visibility of merchant requests and their progress
   
 📜 **_Writing samples:_**
   - [Overview of Checkout.com Integrated NetSuite Payments](https://www.checkout.com/docs/integrate/erp/netsuite)
   - [Checkout.com Integrated NetSuite Payments user guides](https://www.checkout.com/docs/integrate/erp/netsuite/go-further-with-netsuite)
 
-💻 **_Tools and technologies used:_** Docs-as-code, Confluence, Git, GitHub, Jira, Looker, Markdown, MS Office, Slack, VS Code, Zoom <br>
+💻 **_Tools and technologies used:_** Confluence, docs-as-code, Git, GitHub, Jira, Looker, Markdown, MS Office, Slack, VS Code, Zoom <br>
 
 <br>
 
 ### **Technical Writer** at [FIS](https://www.fisglobal.com)
 Apr 2019—June 2021 <br>
 _FIS provides technology solutions for merchants, banks, and capital markets firms – advancing the way the world pays, banks, and invests._
-  -	Collaborated with multiple cross-functional teams to create and update product documentation (user guides, installation guides, release notes, online help files) for the [Front Arena Knowledgebase](https://kbase.frontarena.com/).
-  -	Tracked and monitored 250+ Jira development tickets per software release to ensure that all relevant software changes are appropriately documented.
-  -	Updated, reviewed, and published 25+ documents per release in line with the company style guides.
+  -	Collaborated with multiple cross-functional teams to create and update product documentation (user guides, installation guides, release notes, online help files) for the [Front Arena Knowledgebase](https://kbase.frontarena.com/)
+  -	Tracked and monitored 250+ Jira development tickets per software release to ensure that all relevant software changes are appropriately documented
+  -	Updated, reviewed, and published 25+ documents per release in line with the company style guides
 
 📜 **_Writing samples:_**
   - [Internal user guide](https://docs.google.com/document/d/1t-9mPaGAE6kSuRJDdsvagecBJtUnHwoPB2sE9nD40ng/edit?usp=sharing) <br>
@@ -53,17 +53,17 @@ _Dereta is an established publishing company and bookshop operating in Serbia fo
 ### **Proofreader** at [MyTrendyPhone](https://www.mytrendyphone.eu/)
 Feb 2018—June 2018 <br>
 _Established in 2003, MyTrendyPhone is one of the largest online shops for mobile accessories._
-  - Improved product descriptions by correcting errors in grammar, spelling, punctuation, style or accuracy.
-  - Trained content writers on the most common grammatical errors.
+  - Improved product descriptions by correcting errors in grammar, spelling, punctuation, style or accuracy
+  - Trained content writers on the most common grammatical errors
 
 <br>
 
 ### **Customer Support Representative and Mentor** at [Sitel](https://www.sitel.com/)
 Sep 2015—Jan 2018 <br>
 _Sitel Group® is one of the largest global providers of customer experience (CX) products and solutions._
-  - Resolved 60+ customer queries daily via telephone and email and mentored new hires.
-  - Wrote and edited internal procedure guides and email templates, resulting in higher team quality scores.
-  - Named Top Performer of the month 12 times after exceeding all monthly key performance indicators.
+  - Resolved 60+ customer queries daily via telephone and email and mentored new hires
+  - Wrote and edited internal procedure guides and email templates, resulting in higher team quality scores
+  - Named Top Performer of the month 12 times after exceeding all monthly key performance indicators
 
 <br>
 
