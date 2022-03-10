@@ -14,8 +14,8 @@ _Checkout.com is a global payments solution provider on a mission to enable busi
   -	Set up and manage workflows and processes for Partner Engineering to improve team efficiency and increase the visibility of merchant requests and their progress
   
 📜 **_Writing samples:_**
-  - [Overview of Checkout.com Integrated NetSuite Payments](https://www.checkout.com/docs/integrate/erp/netsuite)
-  - [Checkout.com Integrated NetSuite Payments user guides](https://www.checkout.com/docs/integrate/erp/netsuite/go-further-with-netsuite)
+  - [Overview of Checkout.com integration for NetSuite](https://www.checkout.com/docs/integrate/erp/netsuite)
+  - [User guides for NetSuite integration](https://www.checkout.com/docs/integrate/erp/netsuite/go-further-with-netsuite)
   - [Overview of Checkout.com integration for Salesforce Order Management](https://www.checkout.com/docs/integrate/e-commerce-platforms/salesforce-order-management)
   - [Salesforce Order Management integration extension](https://www.checkout.com/docs/integrate/e-commerce-platforms/salesforce-order-management/go-further-with-salesforce-order-management)
 
