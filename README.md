@@ -1,4 +1,4 @@
-_Detail-oriented bilingual Technical Writer with a Master’s degree in English and 3 years’ experience in documenting complex fintech software. Skilled at developing product documentation for multiple projects using docs-as-code, MadCap Flare, Confluence, and Word, while adhering to company style guides and strict project deadlines. Experienced in working with cross-functional teams in a fast-paced Agile environment._
+_Detail-oriented bilingual Technical Writer with a Master’s degree in English and 3+ years’ experience in documenting complex SaaS solutions. Skilled at developing product documentation for multiple projects using docs-as-code, MadCap Flare, Confluence, and Word, while adhering to company style guides and strict project deadlines. Experienced in working with cross-functional teams in a fast-paced Agile environment._
 
 📧 natasha.k.moore@outlook.com &emsp;&emsp; 📞 +44 7305 207685 &emsp;&emsp; 🌍 Reading, UK
 
@@ -6,21 +6,18 @@ _Detail-oriented bilingual Technical Writer with a Master’s degree in English 
 
 ## 📝 Technical Writing Experience
 
-### **Technical Writer, Partner Engineering** at [Checkout.com](https://checkout.com)
+### **Technical Writer II** at [Checkout.com](https://checkout.com)
 July 2021—Present <br>
 _Checkout.com is a global payments solution provider on a mission to enable businesses and their communities to thrive in the digital economy._
-  -	Collaborate with Product, Partner Engineering, and external development teams to create and update product documentation for internal stakeholders
-  -	Work closely with the Docs team to create, review, and publish merchant-facing documentation ([checkout.com/docs](https://checkout.com/docs) and [api-reference.checkout.com](https://api-reference.checkout.com))
-  -	Set up and manage workflows and processes for Partner Engineering to improve team efficiency and increase the visibility of merchant requests and their progress
+  -	Create, review, and publish merchant-facing documentation at [checkout.com/docs](https://checkout.com/docs) and [api-reference.checkout.com](https://api-reference.checkout.com)
+  -	Collaborate with internal and external development teams to create and update product documentation for internal stakeholders
+  -	Work on docs improvement projects, such as tech writing style guide creation and docs home page redesign
   
 📜 **_Writing samples:_**
-  - [Overview of Checkout.com integration for NetSuite](https://www.checkout.com/docs/integrate/erp/netsuite)
-  - [User guides for NetSuite integration](https://www.checkout.com/docs/integrate/erp/netsuite/go-further-with-netsuite)
-  - [Overview of Checkout.com integration for Salesforce Order Management](https://www.checkout.com/docs/integrate/e-commerce-platforms/salesforce-order-management)
-  - [Salesforce Order Management integration extension](https://www.checkout.com/docs/integrate/e-commerce-platforms/salesforce-order-management/go-further-with-salesforce-order-management)
+  - [Accept payments with TrueMoney](https://www.checkout.com/docs/payments/payment-methods/truemoney)
+  - [Shopify payments app configuration guide](https://www.checkout.com/docs/integrate/e-commerce-platforms-/shopify-payments-app)
 
-
-💻 **_Tools and technologies used:_** Confluence, docs-as-code, Git, GitHub, Jira, Looker, Markdown, MS Office, Slack, VS Code, Zoom <br>
+💻 **_Tools and technologies used:_** Confluence, docs-as-code, Git, GitHub, Jira, Looker, Markdown, OpenAPI Specification, Slack, VS Code, Zoom <br>
 
 <br>
 
